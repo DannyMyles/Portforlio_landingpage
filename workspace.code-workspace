@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Portforlio_landingpage-1",
+			"path": "../Portforlio_landingpage-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portforlio_landingpage"
+	}
+}
