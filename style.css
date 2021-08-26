@@ -3,10 +3,9 @@ body, html {
     padding: 0;
     background-color: #fff;
     color: #444452;
-    /*font-family: Apercu,Source Sans Pro,Helvetica,Arial,sans-serif;*/
+    font-family: Apercu,Source Sans Pro,Helvetica,Arial,sans-serif;
     line-height: 1.5;
     scroll-behavior: smooth;
-    font-family: 'Share Tech Mono', monospace;
 }
 
 body.night, html.night {
