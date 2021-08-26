@@ -4,10 +4,10 @@ A website on my portfolio that has my experience,skills,my image {Date Aug 26 20
 Danny Myles
 
 ### Description
-This is a website about my portfolio,it is supposed to help other people know about me,what I can do and my personal expeririences,in other words, it is like my resume
+This is a website on my portfolio,it is supposed to help other people know about me,what I can do and my personal expeririences,in other words, it is like my resume.
 
 ## Check out the website
-[]
+[https://dannymyles.github.io/Portforlio_landingpage/]
 ### Setup/Installation Requirements
 Git
 VisiualStudio code
