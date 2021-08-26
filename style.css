@@ -428,9 +428,7 @@ margin-top: 0;
 margin-bottom: 25px;
 }
 
-body .section_gallary{
-    display: inline-flex;
-}
+
 body .section_content .underline-link, html .section_content .underline-link {
 position: relative;
 display: inline-block;
